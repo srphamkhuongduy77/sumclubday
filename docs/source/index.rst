@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
+SumClub - sumclub.day - Địa chỉ cá cược giải trí được nhiều cược thủ yêu thíc
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`SumClub <https://sumclub.day/>`_ - Sân chơi cập nhật thường xuyên nhiều siêu phẩm mơi mới hấp dẫn cùng nhiều tính năng đặc sắc khác. Tham gia vào thế giới giải trí SumClub chắc chắn anh em sẽ được thỏa mãn đam mê của bản thân và đặt cược mang về cho bản thân khoản lợi nhuận hấp dẫn.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Liên hệ:
 
-.. note::
+Website: https://sumclub.day/
 
-   This project is under active development.
+Địa chỉ: 145B Trường Chinh - Phủ Lý - Hà Nam
 
-Contents
---------
+Zipcode: 401320
 
-.. toctree::
-
-   usage
-   api
+#SumClub #SumClubDay #SumClubCasino #DoiThuongSumClub #CongGameSumClub
